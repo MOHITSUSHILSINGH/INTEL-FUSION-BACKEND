@@ -1,0 +1,13 @@
+node_modules/
+.env
+logs/
+uploads/images/*
+uploads/csv/*
+uploads/excel/*
+uploads/json/*
+!uploads/images/.gitkeep
+!uploads/csv/.gitkeep
+!uploads/excel/.gitkeep
+!uploads/json/.gitkeep
+*.log
+.DS_Store
